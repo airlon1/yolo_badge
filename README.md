@@ -1,2 +1,2 @@
-# yolo_badg
+# yolo_badge
 
